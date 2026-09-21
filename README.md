@@ -47,7 +47,7 @@ I'm Allan Ogwal, a Software Development student at Brigham Young University–Id
 ![Allan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Allan2468coder&show_icons=true&theme=default)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Allan2468coder&layout=compact&theme=default)
-My Github link;  https://github.com/Allan2468coder/
+My Github link;  https://github.com/Allan2468coder/ogwalallan12
 ## Let's Connect!
 My LinkedIn link; www.linkedin.com/in/ogwal-allan-72a151397
 
